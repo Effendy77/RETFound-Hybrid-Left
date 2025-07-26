@@ -1,0 +1,16 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.so
+
+# Checkpoints & logs
+checkpoints/
+*.pth
+*.log
+*.ckpt
+tb_logs*/
+runs/
+
+# OS metadata
+.DS_Store
+Thumbs.db
