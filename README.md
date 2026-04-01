@@ -56,3 +56,8 @@ pip install -r requirements.txt
 - Only **left-eye images (21015)** are used.
 - This pipeline **excludes image flipping**.
 - Tabular features are customizable via script arguments.
+
+## Data Availability
+
+No UK Biobank participant-level data (including eid) is included in this repository.
+All analyses were conducted under UK Biobank approval using secure local data.
